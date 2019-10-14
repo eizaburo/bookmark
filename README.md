@@ -1,6 +1,7 @@
 ## ReactNativeでBookmark機能実装
 
-とりあえず、Redux + Redux-Persistを利用
+* とりあえず、Redux + Redux-Persistを利用
+* クリックでブックマーク。再度クリックでブックマークから削除。
 
 ## イメージ
 
